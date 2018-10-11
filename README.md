@@ -11,6 +11,6 @@ Using sentiment analysis, we can know the behavior of somethings in the world, t
 
 2014-12-29 14:34:28	Apoiamos o Projeto Hope. Ajudamos a construir quatro escolas na China. Um projeto que nos enche de #orgulho. ;) "
 
-The tweets don't need to be in portuguese, any language can be accepted. Then, after the sentiment analysis process, two other fiels will be created, polarity and subjectivity.
+The tweets don't need to be in portuguese, any language can be accepted. Then, after the sentiment analysis process, two other fields will be created, polarity and subjectivity.
 
 The archive can be in CSV format.
