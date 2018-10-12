@@ -14,3 +14,11 @@ Using sentiment analysis, we can know the behavior of somethings in the world, t
 The tweets don't need to be in portuguese, any language can be accepted. Then, after the sentiment analysis process, two other fields will be created, polarity and subjectivity.
 
 The archive can be in CSV format.
+
+Contributors
+1. [Gabriel Moura Vargas](https://github.com/GMVargass)
+2. [Danielli Costa](https://github.com/daniellic9/)
+3. [Thaylo Guizani](https://github.com/DebeckGZN)
+4. [Caiovr](https://github.com/Caiovr)
+5. [Anthony Parrett](https://github.com/aparrett/)
+6. [David Morosini](https://github.com/davidmorosini)
